@@ -1,0 +1,2 @@
+#run the below code in command prompt to install PIL library
+python -m pip install Pillow
